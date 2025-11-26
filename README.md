@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Tôi là sinh viên năm cuối tại <b>Trường Đại học Giao thông Vận tải</b> với <b>GPA 3.0</b>. Tôi đam mê Lập trình Backend và Ứng dụng Di động. Tôi hiện đang tìm kiếm một <b>cơ hội thực tập</b> để bắt đầu sự nghiệp của mình!
+  I am a final-year student at the <b>University of Transport and Communications (UTC)</b> with a <b>GPA of 3.0</b>. I am passionate about Backend Programming and Mobile Application Development. I am currently seeking an <b>internship opportunity</b> to kickstart my career!
 </p>
 
 <div align="center">
@@ -25,10 +25,11 @@
 
 <div align="center">
   <h3>📈 GitHub Stats</h3>
-
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight" alt="TAAgnes3110 Github Stats" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight" alt="TAAgnes3110 Top Langs" height="180px"/>
+  </p>
 </div>
 
 <br/>

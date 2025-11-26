@@ -27,15 +27,13 @@
   <h3>📈 GitHub Stats</h3>
   
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight" alt="TAAgnes3110 Github Stats" height="180px"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight" alt="TAAgnes3110 Top Langs" height="180px"/>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" alt="TAAgnes3110 Github Stats" height="170"/>
+    </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" alt="TAAgnes3110 Top Langs" height="170"/>
+    </a>
   </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAAgnes3110&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
 <br/>

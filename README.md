@@ -25,9 +25,10 @@
 
 <div align="center">
   <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="stats graph" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="languages graph" />
+
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <br/>

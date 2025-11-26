@@ -57,5 +57,17 @@
 <br/>
 
 <div align="center">
+  <h3>📫 Connect with Me</h3>
+  <a href="https://www.facebook.com/kiet.vutuan.7927">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://open.spotify.com/user/31yvnsbs6wh3taqp4xxipyzpimqi">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>

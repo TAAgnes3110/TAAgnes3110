@@ -20,14 +20,14 @@
 - 💼 **Focus**: Backend (Node.js, Java) & Mobile Application Development.
 - 🌟 **Personality**: Sociable, Creative, Cheerful, and always eager to learn.
 - 🎯 **Goal**: Seeking an internship to apply my skills and grow as a developer.
+
 <br/>
 
 <div align="center">
   <h3>📈 GitHub Stats</h3>
-
-  [![TAAgnes3110's GitHub stats](https://github-readme-stats.vercel.app/api?username=TAAgnes3110)](https://github.com/anuraghazra/github-readme-stats)
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110)](https://github.com/anuraghazra/github-readme-stats)
+  <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight" alt="Top Langs" />
 </div>
 
 <br/>

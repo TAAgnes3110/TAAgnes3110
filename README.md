@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  I am a final-year student at the <b>University of Transport and Communications (UTC)</b> with a <b>GPA of 3.0</b>. I am passionate about Backend Programming and Mobile Application Development. I am currently seeking an <b>internship opportunity</b> to kickstart my career!
+  Tôi là sinh viên năm cuối tại <b>Trường Đại học Giao thông Vận tải</b> với <b>GPA 3.0</b>. Tôi đam mê Lập trình Backend và Ứng dụng Di động. Tôi hiện đang tìm kiếm một <b>cơ hội thực tập</b> để bắt đầu sự nghiệp của mình!
 </p>
 
 <div align="center">
@@ -20,20 +20,6 @@
 - 💼 **Focus**: Backend (Node.js, Java) & Mobile Application Development.
 - 🌟 **Personality**: Sociable, Creative, Cheerful, and always eager to learn.
 - 🎯 **Goal**: Seeking an internship to apply my skills and grow as a developer.
-
-<br/>
-
-<div align="center">
-  <h3>📈 GitHub Stats</h3>
-  
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" alt="TAAgnes3110 Github Stats" height="170"/>
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" alt="TAAgnes3110 Top Langs" height="170"/>
-    </a>
-  </p>
 </div>
 
 <br/>

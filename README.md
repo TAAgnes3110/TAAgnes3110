@@ -21,6 +21,34 @@
 - 🌟 **Personality**: Sociable, Creative, Cheerful, and always eager to learn.
 - 🎯 **Goal**: Seeking an internship to apply my skills and grow as a developer.
 
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://avatars.githubusercontent.com/TAAgnes3110" width="300" style="border-radius: 50%;" alt="TAAgnes Avatar" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="languages graph" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>📈 GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="stats graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAAgnes3110&theme=radical&hide_border=true&background=0D1117" alt="streak graph" />
+</div>
+
+<br/>
+
 <div align="center">
   <h3>🛠️ Tech Stack</h3>
 
@@ -30,19 +58,6 @@
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
-
-<br/>
-
-<div align="center">
-  <h3>� GitHub Stats</h3>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAAgnes3110&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
 </div>
 
 <br/>

@@ -34,8 +34,8 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="340" />
+  <img src="https://readme-stats-fast.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Stats" width="420" />
+  <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="340" />
 </p>
 
 ---

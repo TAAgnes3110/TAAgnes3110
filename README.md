@@ -27,14 +27,10 @@
 
 ---
 
-## Contribution history
+## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=TAAgnes3110&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="480" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TAAgnes3110&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity+since+last+month" alt="Contribution graph" width="100%" />
+  <a href="https://github.com/TAAgnes3110?tab=overview&from=2026-01-01"><img src="https://img.shields.io/badge/View_contribution_graph-7aa2f7?style=flat-square" alt="Contributions" /></a>
 </p>
 
 <p align="center">

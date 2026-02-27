@@ -1,73 +1,108 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20TAAgnes&descAlignY=51&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello%20World&fontSize=90&animation=fadeIn&fontAlignY=38&desc=I'm%20TAAgnes&descAlignY=51&descAlign=62" alt="Header" />
 </div>
 
-<h1 align="center">Hi there, I'm TAAgnes! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"></h1>
+<h1 align="center">Hi there, I'm TAAgnes! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30" height="30" alt="wave" /></h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Node.js+%7C+Express+%7C+Java;Mobile+App+Enthusiast;Creative+%26+Sociable" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Backend+Developer;Node.js+%7C+Express+%7C+Java;Mobile+App+Enthusiast;Creative+%26+Sociable" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
-  I am a final-year student at the <b>University of Transport and Communications</b> with a <b>GPA of 3.0</b>. I am passionate about Backend Development and Mobile Apps. I am currently looking for an <b>internship opportunity</b> to kickstart my career!
+  Final-year student at <b>University of Transport and Communications</b> · <img src="https://img.shields.io/badge/GPA-3.0-success?style=flat-square&logo=google-scholar&logoColor=white" alt="GPA 3.0" /> · Passionate about <b>Backend</b> & <b>Mobile</b>. Looking for an <b>internship</b> to kickstart my career!
 </p>
 
+---
+
 <div align="center">
-  <h3>🚀 About Me</h3>
+
+### 🚀 About Me
+
 </div>
 
-- 🎓 **Education**: University of Transport and Communications (UTC) <img src="https://img.shields.io/badge/GPA-3.0-success?style=flat-square&logo=google-scholar&logoColor=white" alt="GPA 3.0" />
-- 💼 **Focus**: Backend (Node.js, Java) & Mobile Application Development.
-- 🌟 **Personality**: Sociable, Creative, Cheerful, and always eager to learn.
-- 🎯 **Goal**: Seeking an internship to apply my skills and grow as a developer.
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <strong>🎓 Education</strong><br/>
+      University of Transport and Communications (UTC)
+    </td>
+    <td width="50%" align="center">
+      <strong>💼 Focus</strong><br/>
+      Backend (Node.js, Java) & Mobile Development
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <strong>🌟 Personality</strong><br/>
+      Sociable · Creative · Cheerful · Eager to learn
+    </td>
+    <td width="50%" align="center">
+      <strong>🎯 Goal</strong><br/>
+      Internship → Apply skills & grow as a developer
+    </td>
+  </tr>
+</table>
 
-<br/>
+---
 
 <div align="center">
-  <h3>📈 GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight" alt="Top Langs" />
+
+### 📈 GitHub Stats
+
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAAgnes3110&theme=tokyonight&hide_border=true&background=0D1117" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" width="350" />
 </div>
 
-<br/>
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=TAAgnes3110&theme=tokyonight&hide_border=true&background=0D1117" alt="Streak" />
+</div>
+
+---
 
 <div align="center">
-  <h3>🛠️ Tech Stack</h3>
 
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js" />
+### 🛠️ Tech Stack
+
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <br/>
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
   <br/>
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-</div>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+</p>
 
-<br/>
+---
 
 <div align="center">
-  <h3>📫 Connect with Me</h3>
+
+### 📫 Connect with Me
+
+</div>
+
+<p align="center">
   <a href="https://www.facebook.com/kiet.vutuan.7927">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" alt="Facebook" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   <a href="https://open.spotify.com/user/31yvnsbs6wh3taqp4xxipyzpimqi">
     <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify" />
   </a>
-</div>
+</p>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="Footer" />
 </div>

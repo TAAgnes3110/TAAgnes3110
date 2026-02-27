@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:24283b&height=120&section=header&text=TAAgnes&fontSize=70&fontColor=c0caf5&animation=scaleIn" alt="TAAgnes" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:24283b&height=100&section=header&text=TAAgnes&fontSize=60&fontColor=c0caf5&animation=scaleIn" alt="TAAgnes" />
 </p>
 
 <p align="center">
@@ -7,10 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&color=7aa2f7&center=true&width=380&lines=UTC+Student+%7C+GPA+3.0;Open+to+internships+%F0%9F%91%8B" alt="Typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&duration=3000&color=7aa2f7&center=true&width=400&lines=UTC+Student+%7C+GPA+3.0;Open+to+internships+%F0%9F%91%8B" alt="Typing" />
 </p>
-
-<br/>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Education-UTC-blue?style=flat-square" alt="UTC" />
@@ -18,7 +16,7 @@
   <img src="https://img.shields.io/badge/Status-Open%20to%20work-bf616a?style=flat-square" alt="Status" />
 </p>
 
-<br/>
+---
 
 ## About
 
@@ -27,20 +25,24 @@
 - Personality: *sociable, creative, eager to learn*
 - **Goal:** Land an internship and grow as a developer
 
-<br/>
+---
 
-## Stats
+## Contribution history
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Stats" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight&hide_border=true" alt="Languages" width="340" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TAAgnes3110&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" width="480" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TAAgnes3110&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TAAgnes3110&theme=tokyo-night&hide_border=true&area=true&custom_title=Activity+since+last+month" alt="Contribution graph" width="100%" />
 </p>
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TAAgnes3110&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="Stats" width="420" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TAAgnes3110&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" width="340" />
+</p>
+
+---
 
 ## Stack
 
@@ -50,7 +52,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -60,7 +62,7 @@
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
 </p>
 
-<br/>
+---
 
 ## Connect
 
@@ -70,5 +72,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:24283b&height=60&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:24283b&height=50&section=footer" alt="" />
 </p>
